@@ -1,0 +1,19 @@
+{
+  "name": "shell-args-escape",
+  "version": "1.0.0",
+  "description": "UNIX shell escape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fLiuzziSidea/shell-args-escape.git"
+  },
+  "author": "Francesco Liuzzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fLiuzziSidea/shell-args-escape/issues"
+  },
+  "homepage": "https://github.com/fLiuzziSidea/shell-args-escape"
+}
