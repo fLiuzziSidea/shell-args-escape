@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fLiuzziSidea/shell-args-escape.git"
+    "url": "git+https://github.com/franc-liuzzi/shell-args-escape.git"
   },
   "author": "Francesco Liuzzi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fLiuzziSidea/shell-args-escape/issues"
+    "url": "https://github.com/franc-liuzzi/shell-args-escape/issues"
   },
-  "homepage": "https://github.com/fLiuzziSidea/shell-args-escape"
+  "homepage": "https://github.com/franc-liuzzi/shell-args-escape"
 }
